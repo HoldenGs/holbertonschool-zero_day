@@ -1,0 +1,1 @@
+This project teaches the basics of Vagrant. Reading was done before the project and the one requirement was to find the output of uname in the Vagrant environment and place the answer in 0-hello_ubuntu.
