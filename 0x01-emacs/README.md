@@ -1,0 +1,1 @@
+This project is designed to familiarize one with emacs keybound functions.
